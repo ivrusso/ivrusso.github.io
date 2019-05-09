@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-AGREGADA POR MI [eNTRADAS](https://github.com/ivrusso.github.io/docs/inicio.md)
+AGREGADA POR MI [Entradas](docs/inicio.md)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
