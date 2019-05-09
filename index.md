@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages                   
 
 
-[Post](_posts/index.html)
+[Post](_posts/index.md)
  
 [Documentos](docs/index.md) 
 
