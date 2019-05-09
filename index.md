@@ -25,8 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-AGREGADA POR MI [Entradas](docs/index.md)
+AGREGADA POR MI [Entradas](docs/index.md).
 
+### esto ya estaba
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
