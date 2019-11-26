@@ -2,7 +2,9 @@
 
 
 [Post](_posts/index.md)
- 
+
+[Post2](posts/index.md)
+
 [Documentos](docs/index.md) 
 
 You can use the [editor on GitHub](https://github.com/ivrusso/ivrusso.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
